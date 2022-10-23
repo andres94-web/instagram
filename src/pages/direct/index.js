@@ -25,7 +25,7 @@ function Direct() {
           <ProfilBox size={56} />
           <ProfilBox size={56} />
         </div>
-        <div className="Direct-right-page">asd</div>
+        <div className="Direct-right-page">prueba</div>
       </div>
     </Container>
   );

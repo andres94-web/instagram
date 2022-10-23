@@ -7,8 +7,8 @@ import { Container } from './styles'
 function ProfilBox({
   src,
   size = 32,
-  name = 'selcuk',
-  location = 'Turkey, Istanbul',
+  name = 'prueba',
+  location = 'prueba, prueba',
   icon,
   gradient,
   bg

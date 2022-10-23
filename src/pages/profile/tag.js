@@ -1,7 +1,7 @@
 import React from "react";
 
 function ProfileTag() {
-  return <div>Etiketlenenler</div>;
+  return <div>prueba</div>;
 }
 
 export default ProfileTag;

@@ -7,37 +7,37 @@ function Footer({ color, ...props }) {
     <Container color={color} {...props}>
       <ul>
         <li>
-          <span>Hakkında</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>Yardım</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>Basın</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>API</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>İş Fırsatları</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>Gizlilik</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>Koşullar</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>Konumlar</span>
+          <span>prueba</span>
         </li>
         <li>
-          <span>Başlıca Hesaplar</span>
+          <span>prueba prueba</span>
         </li>
         <li>
-          <span>Konu Etiketleri</span>
+          <span>prueba prueba</span>
         </li>
         <li>
-          <span>Dil</span>
+          <span>prueba</span>
         </li>
       </ul>
 

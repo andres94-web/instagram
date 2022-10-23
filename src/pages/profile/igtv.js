@@ -1,7 +1,7 @@
 import React from "react";
 
 function ProfileIgtv() {
-  return <div>IGTV</div>;
+  return <div>prueba</div>;
 }
 
 export default ProfileIgtv;

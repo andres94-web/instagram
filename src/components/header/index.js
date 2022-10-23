@@ -37,7 +37,7 @@ function Header() {
             type="text"
             className="fontAwesome"
             id="text"
-            placeholder="&#xF002; Ara"
+            placeholder="&#xF002; prueba"
           />
         </SearchForm>
 
@@ -64,18 +64,18 @@ function Header() {
           >
             <DropdownItem to="/profile">
               <Profil />
-              <div>Profil</div>
+              <div>prueba</div>
             </DropdownItem>
             <DropdownItem to="/profile/save">
               <SaveBorder />
-              <div>Kaydedildi</div>
+              <div>prueba</div>
             </DropdownItem>
             <DropdownItem to="/accounts/edit/">
               <Ayarlar />
-              <div>Ayarlar</div>
+              <div>prueba</div>
             </DropdownItem>
             <DropdownItem to="">
-              <div>Çıkış Yap</div>
+              <div>prueba</div>
             </DropdownItem>
           </Dropdown>
         </Nav>

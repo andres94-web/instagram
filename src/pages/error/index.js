@@ -6,7 +6,7 @@ function Error() {
   return (
     <Container>
       <h1>
-        Böyle bir sayfa yok . <br /> veya henüz ben yapmadım :)
+      prueba prueba prueba <br />prueba prueba prueba :)
       </h1>
     </Container>
   );

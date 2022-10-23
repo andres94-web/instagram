@@ -1,7 +1,7 @@
 import React from "react";
 
 function ProfileSave() {
-  return <div>Kaydedilenler</div>;
+  return <div>prueba</div>;
 }
 
 export default ProfileSave;

@@ -23,15 +23,15 @@ function Home() {
 
           <div style={{ marginBottom: '24px' }}>
             <div className="Timeline-suggestions">
-              <span>Senin İçin Öneriler</span>
+              <span>prueba</span>
               <Link to="/" className="small">
-                Tümünü Gör
+              prueba
               </Link>
             </div>
 
-            <ProfilBox icon="Takip Et" />
-            <ProfilBox gradient icon="Takip Et" />
-            <ProfilBox icon="Takip Et" />
+            <ProfilBox icon="prueba" />
+            <ProfilBox gradient icon="prueba" />
+            <ProfilBox icon="prueba" />
           </div>
 
           <div>

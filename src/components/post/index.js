@@ -17,10 +17,10 @@ function Post({
       <ProfilBox
         icon={
           <Dropdown DropButton={<More />}>
-            <DropdownItem to="/">Uygunsuz İçeriği Şikayet Et</DropdownItem>
-            <DropdownItem to="/">Takibi Bırak</DropdownItem>
-            <DropdownItem to="/">Gönderiye Git</DropdownItem>
-            <DropdownItem to="/">İptal</DropdownItem>
+            <DropdownItem to="/">prueba prueba prueba</DropdownItem>
+            <DropdownItem to="/">prueba prueba</DropdownItem>
+            <DropdownItem to="/">prueba prueba</DropdownItem>
+            <DropdownItem to="/">prueba</DropdownItem>
           </Dropdown>
         }
         gradient
@@ -49,28 +49,28 @@ function Post({
           <section className="Post-footer-viewcount">
             <button>
               <span>19.000</span>
-              <span>beğenme</span>
+              <span>prueba</span>
             </button>
           </section>
           <section className="Post-footer-comment">
             <Link className="Post-footer-comment-link" to="/selcuk">
-              webtekno
+            prueba
             </Link>
-            <span>Evet bu gönderilorem lorem</span>
+            <span>prueba prueba prueba prueba</span>
             <Link to="/" className="Post-footer-comment-tag">
-              #Etiket
-            </Link>
-            <Link to="/" className="Post-footer-comment-tag">
-              #Etiket
+              #prueba
             </Link>
             <Link to="/" className="Post-footer-comment-tag">
-              #Etiket
+              #prueba
+            </Link>
+            <Link to="/" className="Post-footer-comment-tag">
+              #prueba
             </Link>
           </section>
         </div>
         <form className="Post-footer-form">
-          <textarea placeholder="Yorum ekle.."></textarea>
-          <button>Paylaş</button>
+          <textarea placeholder="prueba..."></textarea>
+          <button>prueba</button>
         </form>
       </Footer>
     </Container>

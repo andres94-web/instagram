@@ -27,26 +27,26 @@ function Profile() {
         <Avatar size={150} />
         <section>
           <div>
-            <h2 style={{ fontWeight: '300', fontSize: '28px' }}>selcuk</h2>
-            <button className="Profile-header-button">Profil Düzenle</button>
+            <h2 style={{ fontWeight: '300', fontSize: '28px' }}>prueba</h2>
+            <button className="Profile-header-button">Perfil prueba</button>
             <button style={{ padding: '8px' }}>
               <Ayarlar style={{ fontSize: '24px' }} />
             </button>
           </div>
           <div>
             <div>
-              <span>0</span> gönderi
+              <span>0</span> prueba
             </div>
             <div>
-              <span>0</span> gönderi
+              <span>0</span> prueba
             </div>
             <div>
-              <span>0</span> gönderi
+              <span>0</span> prueba
             </div>
           </div>
           <div>
-            <h1>selçuk özdemir</h1>
-            <span>Ktü Yazılım Mühendisliği</span>
+            <h1>prueba</h1>
+            <span>prueba prueba</span>
           </div>
         </section>
       </header>
@@ -56,28 +56,28 @@ function Profile() {
           className={router.pathname === '/profile' && 'profile--active'}
         >
           <Post />
-          Gönderiler
+          prueba
         </Link>
         <Link
           to={`${url}/igtv`}
           className={router.pathname === '/profile/igtv' && 'profile--active'}
         >
           <İgtv />
-          igtv
+          prueba
         </Link>
         <Link
           to={`${url}/save`}
           className={router.pathname === '/profile/save' && 'profile--active'}
         >
           <Save />
-          Kaydedilenler
+          prueba
         </Link>
         <Link
           to={`${url}/tag`}
           className={router.pathname === '/profile/tag' && 'profile--active'}
         >
           <Tag />
-          Etiketlenenler
+          prueba
         </Link>
       </nav>
 
